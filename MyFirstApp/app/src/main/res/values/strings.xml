@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="firstname">Enter your name</string>
+    <string name="surname">Enter your surname</string>
+    <string name="email">Enter your email</string>
+    <string name="phoneNumber">Enter your phone</string>
+    <string name="password">Enter your password</string>
+    <string name="signup">Sign Up</string>
+    <string name="toLogin">To login</string>
+    <string name="updateUser">Update</string>
+    <string name="getRequest">To Gets</string>
+    <string name="userID">Enter the user ID</string>
+    <string name="getAllButton">Get All</string>
+    <string name="getUserId">Get By ID</string>
+    <string name="register">Register</string>
+    <string name="getAllUsers">all</string>
+    <string name="getUserError">User not found</string>
+    <string name="incompleteParams">Enter all the parameters needed</string>
+    <string name="postUserError">The user already exists</string>
+    <string name="id">Enter ID</string>
+    <string name="updateUserError">Error updating user</string>
+    <string name="POSTsignup">signup</string>
+</resources>
